@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/deviceName", {data:[{}],fetch:{},mutations:[]});
