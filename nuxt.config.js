@@ -74,12 +74,8 @@ export default {
     crawler: false,
   },
 
-  // router: {
-  //   base: '.',
-  // },
-
   router: {
-    base: process.env.DEPLOY_ENV === 'STATIC' ? '/nuxt-example/' : '/',
+    base: process.env.DEPLOY_ENV === 'STATIC' ? '/NuxtShop/' : '.',
   },
 
   render: {
