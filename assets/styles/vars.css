@@ -1,0 +1,15 @@
+:root {
+  --color-white: #fff;
+
+  --color-blue: #4353FF;
+
+  --color-black: #111523;
+
+  --color-str-black: #030513;
+
+  --color-grey: #24293E;
+
+  --font-manrope: Manrope,Arial, Helvetica, sans-serif;
+
+  --font-halvar: Halvar,Arial, Helvetica, sans-serif;
+}
